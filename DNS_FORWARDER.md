@@ -1,4 +1,4 @@
-# Linux_Cheat_Sheet
+# DNS Forwarder unter Debian
 
 Um einen DNS-Forwarder auf einem Debian-System zu installieren, können Sie die folgenden Schritte ausführen:
 
